@@ -14,7 +14,7 @@ To rapidly include the minified production file in your webpage.
 ```
 
 ```css
-@import 'https://cdn.jsdelivr.net/gh/KunalTanwar/tailwind-colors/dist/css/colors.min.css';
+@import url("https://cdn.jsdelivr.net/gh/KunalTanwar/tailwind-colors/dist/css/colors.min.css");
 ```
 
 ### View Raw
